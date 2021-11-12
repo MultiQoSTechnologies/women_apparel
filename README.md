@@ -25,6 +25,9 @@ An user interface sample application of women apparel in flutter.
 ## MultiQoS Dribbble 
 https://dribbble.com/shots/15931489-Women-s-Apparel-App
 
+## LICENSE!
+Women apparel is MIT-licensed.
+
 ## References
 
 Carousel Slider https://pub.dev/packages/carousel_slider
