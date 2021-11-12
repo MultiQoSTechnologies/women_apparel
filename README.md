@@ -26,7 +26,7 @@ An user interface sample application of women apparel in flutter.
 https://dribbble.com/shots/15931489-Women-s-Apparel-App
 
 ## LICENSE!
-Women apparel is MIT-licensed.
+Women apparel is [MIT-licensed.](https://github.com/MultiQoSTechnologies/women_apparel/blob/master/LICENSE)
 
 ## References
 
